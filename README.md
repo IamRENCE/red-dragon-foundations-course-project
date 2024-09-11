@@ -26,9 +26,9 @@
 
 ## About The Project
 
-This project contains a Jupyter notebook for human emotions classification using VGG16.
+This project contains a Jupyter notebook `Emotion_Detection.ipynb` for human emotions classification using VGG16.
 
-There is a secondary Jupyter notebook for bank churn prediction using neural networks, which was added
+There is a secondary Jupyter notebook `Bank_Cusomer_Churn.ipynb` for bank churn prediction using neural networks, which was added
 as a backup submission.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
